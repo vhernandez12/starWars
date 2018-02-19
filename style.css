@@ -1,15 +1,32 @@
+body{
+    padding: 10% 10% 10% 10%;
+    background-image: url("images/starwars.jpg");
+    background-size: 1400px 1300px;
+}
+#container{
+    width: 960px;
+}
 .characterSection{
-    width:570px;
+    width: 570px;
     height:150px;
     margin: 10px 0 0 10px;
     background-color: rgb(255, 123, 0);
 }
 .enemiesSection{
-
+    width: 570px;
+    height:150px;
+    margin: 60px 0 0 10px;
+    background-color: rgb(255, 123, 0);
 }
 .fightSection{
-
+    width: 570px;
+    height:150px;
+    margin: 60px 0 0 10px;
+    background-color: rgb(255, 123, 0);
 }
 .defenderSection{
-
+    width: 570px;
+    height:150px;
+    margin: 60px 0 0 10px;
+    background-color: rgb(255, 123, 0);
 }
